@@ -17,7 +17,7 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_TITLE: 'true' # optional, ensure boolean values are strings
           SECTION_NAME: 'waka' # optional
-          BLOCKS: '->' # optional, ensure special characters are quoted
+          # BLOCKS: '->' # optional, ensure special characters are quoted
           TIME_RANGE: 'all_time' # optional
           # TIME_RANGE: 'last_7_days' # optional
           LANG_COUNT: '10' # optional, numbers should be strings
