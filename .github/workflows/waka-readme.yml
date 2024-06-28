@@ -17,12 +17,11 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_TITLE: 'true' # optional, ensure boolean values are strings
           SECTION_NAME: 'waka' # optional
-          # BLOCKS: '->' # optional, ensure special characters are quoted
-          TIME_RANGE: 'all_time' # optional
+          BLOCKS: '⣀⣄⣤⣦⣶⣷⣿' # optional, ensure special characters are quoted
           # TIME_RANGE: 'last_7_days' # optional
-          LANG_COUNT: '10' # optional, numbers should be strings
-          SHOW_TIME: 'true' # optional
+          LANG_COUNT: '2' # optional, numbers should be strings
+          SHOW_TIME: 'false' # optional
           SHOW_TOTAL: 'true' # optional
           SHOW_MASKED_TIME: 'false' # optional
           STOP_AT_OTHER: 'true' # optional
-          IGNORED_LANGUAGES: 'YAML JSON TOML' # optional, space-separated list as string
+          IGNORED_LANGUAGES: 'YAML JSON TOML XML Java Properties GitIgnore' # optional, space-separated list as string
