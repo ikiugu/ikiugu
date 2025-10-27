@@ -1,12 +1,16 @@
--	👋 Hi, I’m Alfred Ikiugu. Welcome to my GitHub profile!
-- 💡 Passionate about mobile app development, with a decade of experience in creating user-centric applications.
-- 🤖 Enthusiastic about machine learning, currently diving deep into data engineering to expand my skillset.
-- 🌍 Dedicated to leveraging technology to create projects that benefit society and promote positive change.
-- 📚 Always learning and exploring new technologies to stay at the forefront of innovation.
-- 💬 Open to collaborating on impactful projects and sharing knowledge with the community.
-- ✉️ Reach out to me at alfred.ikiugu@gmail.com or ikiugualf@gmail.com for any inquiries or potential collaborations.
+# Hi, I’m Alfred  
 
-<!---
-ikiugu/ikiugu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Senior Android Engineer with 9+ years of experience building high-quality, scalable apps that users love.  
+I specialize in **Kotlin**, **Jetpack Compose**, and **Clean Architecture**, crafting fast, reliable, and maintainable Android experiences.  
+
+I’m deeply focused on **developer productivity** — automating builds, optimizing CI/CD pipelines, and creating clean architectures that make teams efficient and confident.  
+
+Beyond Android, I work with **Spring Boot** to design robust backend services and experiment with **Generative AI** to enhance mobile experiences and developer workflows.  
+
+---
+
+📧 [alfred.ikiugu@gmail.com](mailto:alfred.ikiugu@gmail.com)  
+💼 [linkedin.com/in/alfred-ikiugu](https://linkedin.com/in/alfred-ikiugu)  
+📍 Nairobi, Kenya  
+
+> Open to senior Android or platform engineering roles that value clean architecture, speed, and engineering excellence.
