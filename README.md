@@ -5,7 +5,7 @@ I specialize in **Kotlin**, **Jetpack Compose**, and **Clean Architecture**, cra
 
 I’m deeply focused on **developer productivity** — automating builds, optimizing CI/CD pipelines, and creating clean architectures that make teams efficient and confident.  
 
-Beyond Android, I work with **Spring Boot** to design robust backend services and experiment with **Generative AI** to enhance mobile experiences and developer workflows.  
+Beyond Android, I work with **Spring Boot** to design robust backend services and experiment with **Generative AI** to enhance customer experiences and developer workflows.  
 
 ---
 
