@@ -1,16 +1,20 @@
-# Hi, I’m Alfred  
+# Hey, I’m Alfred 👋
 
-Senior Android Engineer with 9+ years of experience building high-quality, scalable apps that users love.  
-I specialize in **Kotlin**, **Jetpack Compose**, and **Clean Architecture**, crafting fast, reliable, and maintainable Android experiences.  
+Senior Android Engineer focused on building reliable, high-quality mobile and platform systems.
 
-I’m deeply focused on **developer productivity** — automating builds, optimizing CI/CD pipelines, and creating clean architectures that make teams efficient and confident.  
+I work mainly with **Kotlin**, **Jetpack Compose**, and clean, scalable Android architecture. I care about the details that make software last: performance, thoughtful APIs, tests, and developer experience.
 
-Beyond Android, I work with **Spring Boot** to design robust backend services and experiment with **Generative AI** to enhance customer experiences and developer workflows.  
+## What I’m building toward
 
----
+- **Android & platform engineering** — robust apps, reusable systems, and faster teams
+- **Backend foundations** — Spring Boot, APIs, SQL, and service design
+- **AI & data engineering** — growing from Python, SQL, and backend foundations into practical data and AI-powered product systems
 
-📧 [alfred.ikiugu@gmail.com](mailto:alfred.ikiugu@gmail.com)  
-💼 [linkedin.com/in/alfred-ikiugu](https://linkedin.com/in/alfred-ikiugu)  
+## Current toolkit
+
+`Kotlin` · `Java` · `Jetpack Compose` · `Android SDK` · `Coroutines` · `Spring Boot` · `Python` · `SQL`
+
 📍 Nairobi, Kenya  
+[LinkedIn](https://www.linkedin.com/in/alfredikiugu/) · [Email](mailto:alfred.ikiugu@gmail.com)
 
-> Open to senior Android or platform engineering roles that value clean architecture, speed, and engineering excellence.
+> Open to senior Android, platform, and developer-productivity engineering roles.
